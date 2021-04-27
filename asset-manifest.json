@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/dufuna-project/static/css/main.7fbeb168.chunk.css",
-    "main.js": "/dufuna-project/static/js/main.d17a6b7f.chunk.js",
-    "main.js.map": "/dufuna-project/static/js/main.d17a6b7f.chunk.js.map",
+    "main.css": "/dufuna-project/static/css/main.04a0b274.chunk.css",
+    "main.js": "/dufuna-project/static/js/main.69a319a9.chunk.js",
+    "main.js.map": "/dufuna-project/static/js/main.69a319a9.chunk.js.map",
     "runtime-main.js": "/dufuna-project/static/js/runtime-main.73766b0d.js",
     "runtime-main.js.map": "/dufuna-project/static/js/runtime-main.73766b0d.js.map",
-    "static/js/2.5757f539.chunk.js": "/dufuna-project/static/js/2.5757f539.chunk.js",
-    "static/js/2.5757f539.chunk.js.map": "/dufuna-project/static/js/2.5757f539.chunk.js.map",
+    "static/js/2.6b1e6d0f.chunk.js": "/dufuna-project/static/js/2.6b1e6d0f.chunk.js",
+    "static/js/2.6b1e6d0f.chunk.js.map": "/dufuna-project/static/js/2.6b1e6d0f.chunk.js.map",
     "index.html": "/dufuna-project/index.html",
-    "static/css/main.7fbeb168.chunk.css.map": "/dufuna-project/static/css/main.7fbeb168.chunk.css.map",
-    "static/js/2.5757f539.chunk.js.LICENSE.txt": "/dufuna-project/static/js/2.5757f539.chunk.js.LICENSE.txt",
+    "static/css/main.04a0b274.chunk.css.map": "/dufuna-project/static/css/main.04a0b274.chunk.css.map",
+    "static/js/2.6b1e6d0f.chunk.js.LICENSE.txt": "/dufuna-project/static/js/2.6b1e6d0f.chunk.js.LICENSE.txt",
+    "static/media/cutleryBG.c519376d.png": "/dufuna-project/static/media/cutleryBG.c519376d.png",
     "static/media/cutleryblackBG.ced30a5f.png": "/dufuna-project/static/media/cutleryblackBG.ced30a5f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.73766b0d.js",
-    "static/js/2.5757f539.chunk.js",
-    "static/css/main.7fbeb168.chunk.css",
-    "static/js/main.d17a6b7f.chunk.js"
+    "static/js/2.6b1e6d0f.chunk.js",
+    "static/css/main.04a0b274.chunk.css",
+    "static/js/main.69a319a9.chunk.js"
   ]
 }
