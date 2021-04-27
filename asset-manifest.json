@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dufuna-project/static/css/main.3577ccf5.chunk.css",
+    "main.css": "/dufuna-project/static/css/main.7fbeb168.chunk.css",
     "main.js": "/dufuna-project/static/js/main.47c04496.chunk.js",
     "main.js.map": "/dufuna-project/static/js/main.47c04496.chunk.js.map",
     "runtime-main.js": "/dufuna-project/static/js/runtime-main.73766b0d.js",
@@ -8,14 +8,14 @@
     "static/js/2.5757f539.chunk.js": "/dufuna-project/static/js/2.5757f539.chunk.js",
     "static/js/2.5757f539.chunk.js.map": "/dufuna-project/static/js/2.5757f539.chunk.js.map",
     "index.html": "/dufuna-project/index.html",
-    "static/css/main.3577ccf5.chunk.css.map": "/dufuna-project/static/css/main.3577ccf5.chunk.css.map",
+    "static/css/main.7fbeb168.chunk.css.map": "/dufuna-project/static/css/main.7fbeb168.chunk.css.map",
     "static/js/2.5757f539.chunk.js.LICENSE.txt": "/dufuna-project/static/js/2.5757f539.chunk.js.LICENSE.txt",
     "static/media/cutleryblackBG.ced30a5f.png": "/dufuna-project/static/media/cutleryblackBG.ced30a5f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.73766b0d.js",
     "static/js/2.5757f539.chunk.js",
-    "static/css/main.3577ccf5.chunk.css",
+    "static/css/main.7fbeb168.chunk.css",
     "static/js/main.47c04496.chunk.js"
   ]
 }
