@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dufuna-project/static/css/main.04a0b274.chunk.css",
-    "main.js": "/dufuna-project/static/js/main.69a319a9.chunk.js",
-    "main.js.map": "/dufuna-project/static/js/main.69a319a9.chunk.js.map",
+    "main.js": "/dufuna-project/static/js/main.e06a54ee.chunk.js",
+    "main.js.map": "/dufuna-project/static/js/main.e06a54ee.chunk.js.map",
     "runtime-main.js": "/dufuna-project/static/js/runtime-main.73766b0d.js",
     "runtime-main.js.map": "/dufuna-project/static/js/runtime-main.73766b0d.js.map",
     "static/js/2.6b1e6d0f.chunk.js": "/dufuna-project/static/js/2.6b1e6d0f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.73766b0d.js",
     "static/js/2.6b1e6d0f.chunk.js",
     "static/css/main.04a0b274.chunk.css",
-    "static/js/main.69a319a9.chunk.js"
+    "static/js/main.e06a54ee.chunk.js"
   ]
 }
